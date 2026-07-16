@@ -1,0 +1,10 @@
+La adopción de metodologías ágiles y herramientas digitales es indispensable para
+potenciar el trabajo en equipo y coordinar con éxito cualquier proyecto social.
+El uso de un backlog digital le permite a la junta de acción comunal clasificar
+las necesidades del sector de forma objetiva, asegurando que se atiendan primero
+las urgencias reales de los habitantes. Asimismo, la integración de sistemas de
+automatización como n8n agiliza la recepción de reportes sin sobrecargar de tareas
+manuales a los coordinadores encargados. Finalmente, Telegram se convierte en un
+canal dinámico para recibir alertas inmediatas, convocar y tomar decisiones clave.
+Esta estructura tecnológica no solo moderniza la gestión comunitaria, sino que también
+promueve la transparencia, motivando a más ciudadanos a participar activamente.
